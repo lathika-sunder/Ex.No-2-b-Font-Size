@@ -128,6 +128,7 @@ public class MainActivity extends AppCompatActivity {
 
 ![233335826-9b2098b4-3c60-450a-99b0-93a270dcfe23](https://user-images.githubusercontent.com/93427201/233931277-65592320-c1e4-4b2b-a89d-9f58029bd02d.png)
 
+![image](https://user-images.githubusercontent.com/93427201/233931663-df175e0d-074f-48a7-ba1a-2c05c0491695.png)
 
 ## Result:
 Thus, the program for android application, Font Size was executed successfully using Android Studio.
